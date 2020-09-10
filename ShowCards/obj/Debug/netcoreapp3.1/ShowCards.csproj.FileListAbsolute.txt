@@ -1,0 +1,13 @@
+C:\Users\kimura\git\cs\ShowCards\bin\Debug\netcoreapp3.1\ShowCards.exe
+C:\Users\kimura\git\cs\ShowCards\bin\Debug\netcoreapp3.1\ShowCards.deps.json
+C:\Users\kimura\git\cs\ShowCards\bin\Debug\netcoreapp3.1\ShowCards.runtimeconfig.json
+C:\Users\kimura\git\cs\ShowCards\bin\Debug\netcoreapp3.1\ShowCards.runtimeconfig.dev.json
+C:\Users\kimura\git\cs\ShowCards\bin\Debug\netcoreapp3.1\ShowCards.dll
+C:\Users\kimura\git\cs\ShowCards\bin\Debug\netcoreapp3.1\ShowCards.pdb
+C:\Users\kimura\git\cs\ShowCards\obj\Debug\netcoreapp3.1\ShowCards.csprojAssemblyReference.cache
+C:\Users\kimura\git\cs\ShowCards\obj\Debug\netcoreapp3.1\ShowCards.AssemblyInfoInputs.cache
+C:\Users\kimura\git\cs\ShowCards\obj\Debug\netcoreapp3.1\ShowCards.AssemblyInfo.cs
+C:\Users\kimura\git\cs\ShowCards\obj\Debug\netcoreapp3.1\ShowCards.csproj.CoreCompileInputs.cache
+C:\Users\kimura\git\cs\ShowCards\obj\Debug\netcoreapp3.1\ShowCards.dll
+C:\Users\kimura\git\cs\ShowCards\obj\Debug\netcoreapp3.1\ShowCards.pdb
+C:\Users\kimura\git\cs\ShowCards\obj\Debug\netcoreapp3.1\ShowCards.genruntimeconfig.cache

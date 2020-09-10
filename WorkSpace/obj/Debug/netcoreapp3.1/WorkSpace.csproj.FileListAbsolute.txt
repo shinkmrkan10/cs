@@ -1,0 +1,13 @@
+C:\Users\kimura\git\cs\WorkSpace\bin\Debug\netcoreapp3.1\WorkSpace.exe
+C:\Users\kimura\git\cs\WorkSpace\bin\Debug\netcoreapp3.1\WorkSpace.deps.json
+C:\Users\kimura\git\cs\WorkSpace\bin\Debug\netcoreapp3.1\WorkSpace.runtimeconfig.json
+C:\Users\kimura\git\cs\WorkSpace\bin\Debug\netcoreapp3.1\WorkSpace.runtimeconfig.dev.json
+C:\Users\kimura\git\cs\WorkSpace\bin\Debug\netcoreapp3.1\WorkSpace.dll
+C:\Users\kimura\git\cs\WorkSpace\bin\Debug\netcoreapp3.1\WorkSpace.pdb
+C:\Users\kimura\git\cs\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.csprojAssemblyReference.cache
+C:\Users\kimura\git\cs\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.AssemblyInfoInputs.cache
+C:\Users\kimura\git\cs\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.AssemblyInfo.cs
+C:\Users\kimura\git\cs\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.csproj.CoreCompileInputs.cache
+C:\Users\kimura\git\cs\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.dll
+C:\Users\kimura\git\cs\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.pdb
+C:\Users\kimura\git\cs\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.genruntimeconfig.cache

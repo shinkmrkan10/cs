@@ -1,0 +1,13 @@
+C:\Users\kimura\git\cs\Cards2\bin\Debug\netcoreapp3.1\Cards2.exe
+C:\Users\kimura\git\cs\Cards2\bin\Debug\netcoreapp3.1\Cards2.deps.json
+C:\Users\kimura\git\cs\Cards2\bin\Debug\netcoreapp3.1\Cards2.runtimeconfig.json
+C:\Users\kimura\git\cs\Cards2\bin\Debug\netcoreapp3.1\Cards2.runtimeconfig.dev.json
+C:\Users\kimura\git\cs\Cards2\bin\Debug\netcoreapp3.1\Cards2.dll
+C:\Users\kimura\git\cs\Cards2\bin\Debug\netcoreapp3.1\Cards2.pdb
+C:\Users\kimura\git\cs\Cards2\obj\Debug\netcoreapp3.1\Cards2.csprojAssemblyReference.cache
+C:\Users\kimura\git\cs\Cards2\obj\Debug\netcoreapp3.1\Cards2.AssemblyInfoInputs.cache
+C:\Users\kimura\git\cs\Cards2\obj\Debug\netcoreapp3.1\Cards2.AssemblyInfo.cs
+C:\Users\kimura\git\cs\Cards2\obj\Debug\netcoreapp3.1\Cards2.csproj.CoreCompileInputs.cache
+C:\Users\kimura\git\cs\Cards2\obj\Debug\netcoreapp3.1\Cards2.dll
+C:\Users\kimura\git\cs\Cards2\obj\Debug\netcoreapp3.1\Cards2.pdb
+C:\Users\kimura\git\cs\Cards2\obj\Debug\netcoreapp3.1\Cards2.genruntimeconfig.cache
