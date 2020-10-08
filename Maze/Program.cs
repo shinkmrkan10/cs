@@ -4,15 +4,15 @@ namespace Maze
 {
   class Program
   {
-    const int INF = 1000000000;              /*   無限大の代用数値   */
-    const int NUMBER = 15;                   /*   ノード数　         */
+    const int INF = 1000000000;                     /*   無限大の代用数値   */
+    const int NUMBER = 15;                          /*   ノード数　         */
 //        public static Random r1 = new System.Random (SEED);
     static int[ , ] dist = new int[NUMBER,NUMBER];  /*  ノード間の距離      */
     static int[] cost = new int[NUMBER];            /*  ノード0からの距離   */
     static bool[] used = new bool[NUMBER];          /*  距離計算済みフラグ  */
 
 
-        /*   ダイクストラアルゴリズムのメソッド   */
+/*   ダイクストラアルゴリズムのメソッド   */
 
     static void dijkstra (int[] cost, bool[] used, int[,] dist)
     {
@@ -40,7 +40,7 @@ namespace Maze
       }
     }
 
-        /*   メインクラス   */
+/*   メインクラス   */
 
     static void Main ()
     {
