@@ -1,0 +1,13 @@
+C:\Users\kimura\git\cs_old\cs\Oneway\bin\Debug\netcoreapp3.1\Oneway.exe
+C:\Users\kimura\git\cs_old\cs\Oneway\bin\Debug\netcoreapp3.1\Oneway.deps.json
+C:\Users\kimura\git\cs_old\cs\Oneway\bin\Debug\netcoreapp3.1\Oneway.runtimeconfig.json
+C:\Users\kimura\git\cs_old\cs\Oneway\bin\Debug\netcoreapp3.1\Oneway.runtimeconfig.dev.json
+C:\Users\kimura\git\cs_old\cs\Oneway\bin\Debug\netcoreapp3.1\Oneway.dll
+C:\Users\kimura\git\cs_old\cs\Oneway\bin\Debug\netcoreapp3.1\Oneway.pdb
+C:\Users\kimura\git\cs_old\cs\Oneway\obj\Debug\netcoreapp3.1\Oneway.csprojAssemblyReference.cache
+C:\Users\kimura\git\cs_old\cs\Oneway\obj\Debug\netcoreapp3.1\Oneway.AssemblyInfoInputs.cache
+C:\Users\kimura\git\cs_old\cs\Oneway\obj\Debug\netcoreapp3.1\Oneway.AssemblyInfo.cs
+C:\Users\kimura\git\cs_old\cs\Oneway\obj\Debug\netcoreapp3.1\Oneway.csproj.CoreCompileInputs.cache
+C:\Users\kimura\git\cs_old\cs\Oneway\obj\Debug\netcoreapp3.1\Oneway.dll
+C:\Users\kimura\git\cs_old\cs\Oneway\obj\Debug\netcoreapp3.1\Oneway.pdb
+C:\Users\kimura\git\cs_old\cs\Oneway\obj\Debug\netcoreapp3.1\Oneway.genruntimeconfig.cache
