@@ -3,3 +3,5 @@ C:\Users\kimura\git\cs_old\cs\Form\obj\Release\netcoreapp3.1\MainWindow.g.cs
 C:\Users\kimura\git\cs_old\cs\Form\obj\Release\netcoreapp3.1\App.g.cs
 C:\Users\kimura\git\cs_old\cs\Form\obj\Release\netcoreapp3.1\Form_MarkupCompile.cache
 C:\Users\kimura\git\cs_old\cs\Form\obj\Release\netcoreapp3.1\Form_MarkupCompile.lref
+C:\Users\kimura\git\cs_old\cs\Form\obj\Release\netcoreapp3.1\Wraplauncher\App.g.cs
+C:\Users\kimura\git\cs_old\cs\Form\obj\Release\netcoreapp3.1\Wraplauncher\MainWindow.g.cs

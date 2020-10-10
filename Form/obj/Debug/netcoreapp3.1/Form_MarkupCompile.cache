@@ -1,19 +1,19 @@
 ﻿Form
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\kimura\git\cs_old\cs\Form\obj\Debug\netcoreapp3.1\
+c:\Users\kimura\git\cs_old\cs\Form\obj\Debug\netcoreapp3.1\
 Form
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\kimura\git\cs_old\cs\Form\App.xaml
-3991533310
+c:\Users\kimura\git\cs_old\cs\Form\App.xaml
+3-618862403
 
-171530286874
-1921276833474
+191080324583
+192674553305
 MainWindow.xaml;Wraplauncher\App.xaml;Wraplauncher\MainWindow.xaml;
 
 True

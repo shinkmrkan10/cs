@@ -1,12 +1,33 @@
-﻿<Window x:Class="Form.MainWindow"
+﻿<Window x:Class="WrapLauncher.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Form"
+        xmlns:local="clr-namespace:WrapLauncher"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="ランチャー" Height="450" Width="800" ResizeMode="CanResizeWithGrip"
+        Loaded="Window_Loaded">
+    <Window.Resources>
+        <!-- 起動ボタンのスタイル -->
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="3"/>
+        </Style>
+        <!-- 見出しラベルのスタイル -->
+        <Style x:Key="TitleLabel" TargetType="TextBlock">
+            <Setter Property="Margin" Value="5,10,5,0"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="DarkBlue"/>
+        </Style>
 
-    </Grid>
+        <!-- コンテキストメニュー -->
+        <ContextMenu x:Key="CtxMenu">
+            <MenuItem Header="設定再読み込み(_R)" Click="MenuReload_Click"/>
+            <Separator />
+            <MenuItem Header="ヘルプ(_H)" Click="MenuHelp_Click"/>
+        </ContextMenu>
+    </Window.Resources>
+
+    <!-- この中にボタン等を追加していく -->
+    <StackPanel x:Name="mainContainer" />
 </Window>
