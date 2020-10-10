@@ -1,20 +1,20 @@
 ﻿Wraplauncher
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\kimura\git\cs_old\cs\Form\Wraplauncher\obj\Debug\netcoreapp3.1\
+c:\Users\kimura\git\cs_old\cs\Form\Wraplauncher\obj\Debug\netcoreapp3.1\
 Wraplauncher
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\kimura\git\cs_old\cs\Form\Wraplauncher\App.xaml
-11613776868
+c:\Users\kimura\git\cs_old\cs\Form\Wraplauncher\App.xaml
+1219584333
 
-31875642169
-192-540444984
+5-800838469
+192674553305
 MainWindow.xaml;
 
-False
+True
 
