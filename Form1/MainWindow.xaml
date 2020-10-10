@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:Form1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+   <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="Text1" Grid.Row="0" Text = "Hello, World!" FontSize = "64" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button x:Name="Button1" Grid.Row="1" Content="終了" Click="Button1_Click" Margin="20"/>        
     </Grid>
 </Window>
