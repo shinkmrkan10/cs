@@ -130,13 +130,13 @@ namespace Oneway
       dist[0,0,0,1] = PATH;     // [0,0][1,0]の距離が1
 
 // [WIDTH,HEIGHT]へははどちらからも行ける
-      maze[WIDTH-2,HEIGHT-1,0] = 1;       // [WIDTH-1,HEIGHT]のi+が1
-      maze[WIDTH-1,HEIGHT-1,2] = -1;      // [WIDTH,HEIGHT]のi-が-1
-      dist[WIDTH-2,HEIGHT-1,WIDTH-1,HEIGHT-1] = PATH;     // [WIDTH-1,HEIGHT][WIDTH,HEIGHT]の距離が1
+      maze[WIDTH-2,HEIGHT-1,0] = 1;       // [WIDTH-2,HEIGHT-1]のi+が1
+      maze[WIDTH-1,HEIGHT-1,2] = -1;      // [WIDTH-1,HEIGHT-1]のi-が-1
+      dist[WIDTH-2,HEIGHT-1,WIDTH-1,HEIGHT-1] = PATH;     // [WIDTH-2,HEIGHT-1][WIDTH-1,HEIGHT-1]の距離が1
 
-      maze[WIDTH-1,HEIGHT-2,1] = 1;       // [WIDTH,HEIGHT-1]のj+が1
-      maze[WIDTH-1,HEIGHT-1,3] = -1;      // [WIDTH,HEIGHT]のj-が-1
-      dist[WIDTH-1,HEIGHT-2,WIDTH-1,HEIGHT-1] = PATH;     // [WIDTH,HEIGHT-1][WIDTH,HEIGHT]の距離が1
+      maze[WIDTH-1,HEIGHT-2,1] = 1;       // [WIDTH-1,HEIGHT-2]のj+が1
+      maze[WIDTH-1,HEIGHT-1,3] = -1;      // [WIDTH-1,HEIGHT-1]のj-が-1
+      dist[WIDTH-1,HEIGHT-2,WIDTH-1,HEIGHT-1] = PATH;     // [WIDTH-1,HEIGHT-2][WIDTH-1,HEIGHT-1]の距離が1
 
 
 /*
