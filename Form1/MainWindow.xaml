@@ -5,13 +5,44 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Form1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Gridの練習" Height="450" Width="800">
    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <TextBlock x:Name="Text1" Grid.Row="0" Text = "Hello, World!" FontSize = "64" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <Button x:Name="Button1" Grid.Row="1" Content="終了" Click="Button1_Click" Margin="20"/>        
+        <TextBlock x:Name="Text1"
+                Grid.ColumnSpan="4"
+                Grid.Row="0"
+                Text = "Hello, World!"
+                FontSize = "64"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"/>
+        <TextBlock x:Name="Text2"
+                Grid.ColumnSpan="2"
+                Grid.Column="2"
+                Grid.Row="1"
+                Text = "How are you?"
+                FontSize = "48"
+                Background = "cyan"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"/>
+        <Button x:Name="Button1"
+                Grid.Column="3"
+                Grid.Row="2"
+                Content="終了"
+                Click="Button1_Click"
+                Margin="20"/>        
+        <Button Content="4"
+                Margin="5"
+                Grid.Row="2"
+                Grid.Column="0"/>
     </Grid>
 </Window>
