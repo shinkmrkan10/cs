@@ -1,0 +1,5 @@
+C:\Users\kimura\git\cs_old\cs\Form\obj\Debug\netcoreapp3.1\Form.csprojAssemblyReference.cache
+C:\Users\kimura\git\cs_old\cs\Form\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kimura\git\cs_old\cs\Form\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kimura\git\cs_old\cs\Form\obj\Debug\netcoreapp3.1\Form_MarkupCompile.cache
+C:\Users\kimura\git\cs_old\cs\Form\obj\Debug\netcoreapp3.1\Form_MarkupCompile.lref

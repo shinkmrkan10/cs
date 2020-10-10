@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimura\\git\\cs_old\\cs\\Form\\Form.csproj",
-      "projectName": "Form",
-      "projectPath": "C:\\Users\\kimura\\git\\cs_old\\cs\\Form\\Form.csproj",
+      "projectUniqueName": "C:\\Users\\kimura\\git\\cs_old\\cs\\Form\\Wraplauncher\\Wraplauncher.csproj",
+      "projectName": "Wraplauncher",
+      "projectPath": "C:\\Users\\kimura\\git\\cs_old\\cs\\Form\\Wraplauncher\\Wraplauncher.csproj",
       "packagesPath": "C:\\Users\\kimura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimura\\git\\cs_old\\cs\\Form\\obj\\",
+      "outputPath": "C:\\Users\\kimura\\git\\cs_old\\cs\\Form\\Wraplauncher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kimura\\AppData\\Roaming\\NuGet\\NuGet.Config"
